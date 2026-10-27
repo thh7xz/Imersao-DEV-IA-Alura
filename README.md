@@ -14,8 +14,8 @@ Interface gráfica: possui botões para os números e operadores, além de um vi
 Tema escuro: interface com cores contrastantes.
 
 🛠️ Tecnologias utilizadas 🐍
-Python — linguagem de programação.
-Tkinter — biblioteca utilizada para criar a interface gráfica.
+Python | linguagem de programação.
+Tkinter | biblioteca utilizada para criar a interface gráfica.
 
 📚 Sobre o projeto
 Este projeto foi desenvolvido como atividade da Imersão Dev com IA da Alura + Google.
