@@ -15,6 +15,7 @@ Tema escuro: interface com cores contrastantes.
 
 🛠️ Tecnologias utilizadas 🐍
 Python | linguagem de programação.
+
 Tkinter | biblioteca utilizada para criar a interface gráfica.
 
 📚 Sobre o projeto
